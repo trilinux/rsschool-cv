@@ -10,4 +10,4 @@ powershell, aruba, fortigate, vmware, veeam, CLI
 
 #### Core system administration skills:
 
-Linux Server (RHEL, CentOS, Ubuntu), Windows Server
+Linux Server (RHEL, CentOS, Ubuntu), Windows Server 2022
